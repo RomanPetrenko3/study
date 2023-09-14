@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+ul {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+.head {
+  border: 1px solid #000;
+  height: 60px;
+}
+.list {
+  list-style: none;
+  padding: 10px 40px;
+  display: flex;
+}
+.item {
+  margin-right: 30px;
+}
+a {
+  text-decoration: none;
+}
+.section-info {
+  background-color: #000;
+  height: 300px;
+  display: flex;
+  padding: 80px;
+}
+.foto {
+  object-fit: cover;
+  width: 350px;
+  margin-right: 150px;
+}
+.title {
+  color: #000;
+}
+.article {
+  width: 550;
+  height: 290px;
+  background-color: #fff;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.caption {
+  padding-top: 20px;
+  padding-left: 600px;
+}
+.section {
+  padding: 20px;
+}
+table {
+  border-collapse: collapse;
+}
+table th,
+table td {
+  border: 1px solid #000;
+}
